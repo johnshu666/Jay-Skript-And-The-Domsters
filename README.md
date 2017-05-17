@@ -1,4 +1,4 @@
-# Jay-Skript-and-the-DOMSTERS
+# Jay Skript And The Domsters
 
 《JavaScript DOM 编程艺术》最后一章的练习题。
 
